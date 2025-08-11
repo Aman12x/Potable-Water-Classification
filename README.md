@@ -76,21 +76,6 @@ Dataset Size: **3,276 samples × 10 columns**
    jupyter notebook water_potability_determination.ipynb
    ```
 
----
-
-## 📊 Results
-| Model                | Accuracy | Precision | Recall | F1 Score |
-|----------------------|----------|-----------|--------|----------|
-| Logistic Regression  | XX%      | XX%       | XX%    | XX%      |
-| Decision Tree        | XX%      | XX%       | XX%    | XX%      |
-| Random Forest        | XX%      | XX%       | XX%    | XX%      |
-| KNN                  | XX%      | XX%       | XX%    | XX%      |
-| Naive Bayes          | XX%      | XX%       | XX%    | XX%      |
-| SVC                  | XX%      | XX%       | XX%    | XX%      |
-| XGBoost              | XX%      | XX%       | XX%    | XX%      |
-| AdaBoost             | XX%      | XX%       | XX%    | XX%      |
-
-*(Replace `XX%` with actual results after running the notebook.)*
 
 ---
 
